@@ -2,7 +2,7 @@
 
 # Hey there 👋
 
-### I'm Ronan — Full-Stack Engineer 🚀
+### I'm Yihang Harry Zenk — Full-Stack Engineer 🚀
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Full-Stack+Engineer;AI+%26+Cloud+Developer;React+%7C+TypeScript+%7C+Python;FastAPI+%7C+GCP+%7C+Gemini;Building+%26+Shipping+Modern+Apps" />
 
