@@ -16,19 +16,7 @@
 
 ## 🧑‍💻 About Me
 
-```text
-┌─────────────────────────────────────────────────────────────┐
-│ │
-│ 🚀 Full-Stack Engineer │
-│ │
-│ I build modern web applications, AI-powered systems, │
-│ scalable APIs and cloud-native applications. │
-│ │
-│ ⚡ Frontend → React + TypeScript │
-│ 🐍 Backend → Python + FastAPI │
-│ 🤖 AI → Gemini + Vertex AI │
-│ ☁ Cloud → Google Cloud + Cloud Run │
-│ 🗄 Data → Firestore + BigQuery │
-│ 🐳 DevOps → Docker + CI/CD │
-│ │
-└─────────────────────────────────────────────────────────────┘
+<div align="center">
+
+<img src="./about.png" width="900" alt="About Me">
+</div>
